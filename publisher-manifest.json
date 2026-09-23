@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a66c6e3440130e7aefdd9166",
+  "owner": "csewppcad",
+  "repo": "page-68b45951bedb11b38d9a7eef",
+  "title": "菩提云(Bodhi)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "68b45951bedb11b38d9a7eef",
+      "a": "菩提云(Bodhi)",
+      "b": "机场官网线路发布页",
+      "entity": "菩提云(Bodhi)",
+      "brand": "菩提云(Bodhi)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6a886239db4f02fa0b106cd456250d321ce7f9e3564bb02edbc562d9bae37f14",
+      "content": {
+        "primary_entity": "菩提云(Bodhi)",
+        "keyword1": "菩提云(Bodhi)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕多设备接入与订阅周期展开，菩提云(Bodhi) 提供基础版、旗舰版与团队版三档选择，流量从每月 100GB 到 1000GB 不等，设备数按 3 台至 20 台逐级放宽，适合个人、家庭或小型团队按实际在线数量比对套餐。",
+          "AI_HERO_SUBTITLE": "菩提云多设备套餐对比",
+          "AI_HERO_INTRO": "菩提云(Bodhi) 面向需要稳定线路与多设备在线的用户，提供基础版、旗舰版与团队版三档订阅，流量、设备数量与节点权限逐级提升，年付价格更划算。",
+          "AI_VISUAL_TITLE": "菩提云订阅套餐概览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付折算更省月均支出",
+          "AI_HIGHLIGHT_3": "多设备同时在线按需选择",
+          "AI_FEATURES_TITLE": "菩提云核心特点",
+          "AI_FEATURES_INTRO": "从套餐规格、设备数量与订阅周期三个角度，快速判断菩提云是否匹配使用场景。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按日常用量对应选择。",
+          "AI_FEATURE_TITLE_2": "按设备数定档位",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台，按同时在线设备数量匹配。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付便于短期试用，年付价格更低，如旗舰版年付仅需 ¥350/年。",
+          "AI_PLANS_TITLE": "菩提云套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别约 ¥150、¥350、¥850，按流量与设备数逐级提升。",
+          "AI_CLIENTS_TITLE": "菩提云客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，按客户端文档导入订阅地址即可开始使用。",
+          "AI_GUIDE_TITLE": "菩提云使用步骤",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，三步完成菩提云订阅的启用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "按流量与设备数量在基础版、旗舰版、团队版中选定档位并完成订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与客户端版本，匹配对应平台的客户端下载方式。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中按文档导入订阅地址，完成节点更新后即可连接使用。",
+          "AI_FAQ_TITLE": "菩提云常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "菩提云套餐的流量用完了怎么办？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，流量按自然月重置。若当月用量超出，可等待下月重置或升级到更高档位套餐。",
+          "AI_FAQ_QUESTION_2": "菩提云支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台。同时在线设备数达到上限时，需断开部分设备或选择更高档位。",
+          "AI_FAQ_QUESTION_3": "菩提云年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按 ¥15 起按月计费，年付一次性支付更优惠，例如旗舰版年付仅需 ¥350/年，适合确定长期使用的用户。",
+          "AI_FAQ_QUESTION_4": "菩提云订阅如何在不同设备上导入？",
+          "AI_FAQ_ANSWER_4": "在各设备对应客户端中按文档指引导入订阅地址，客户端会自动拉取节点信息。不同系统的操作路径略有差异，以客户端文档说明为准。",
+          "AI_FAQ_QUESTION_5": "菩提云团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备同时在线，并提供 VIP 专属高带宽节点与企业定制路由，适合小型团队或多人共享使用。",
+          "AI_CLOSING_TITLE": "按需选择菩提云套餐",
+          "AI_CLOSING_TEXT": "根据日常流量与设备数量选定档位，按客户端文档完成订阅配置即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "7jx4gf.cn",
+    "host": "7jx4gf.cn"
+  },
+  "file_hashes": {
+    "index.html": "ce88272db954ce569908e19ad5aec2a13e32eaf4b063be2823f8fd42b6c44d84",
+    "sitemap.xml": "ba584b14b23c2932965b8a4cafd058756b11fb0d0ed45dbfb4383028847dc93f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8ba3b8ced9a6467350208205e8c10362cd09f4feef9ccd89d7bad6ab108544de",
+    "robots.txt": "8c011950bc9fab44721caf20b17a7ab31e06943ff67370faafe3cd32a9ee5fdf",
+    "ac9ca94cc0173b39eba26c3a308cfc21.txt": "72a1b7267fcd73717af7d329159d7b8baada1d9457d5d4360c38ac1b84f87356"
+  },
+  "revision": "c5b6458e5b6f3691a65376e5ac0c110c1d871ca02f63172bf8bbc5a2d336b7f6"
+}
